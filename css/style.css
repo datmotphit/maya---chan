@@ -378,8 +378,7 @@ footer {
 
 }
 body {
-    background-image: url("../assets/bg.jpg");
-    background-size: cover;          
+    background-image: url("../assets/bg.jpg");         
     background-position: center;      
     background-repeat: no-repeat;     
     background-attachment: fixed;     
